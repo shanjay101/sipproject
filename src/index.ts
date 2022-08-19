@@ -23,7 +23,7 @@ async function main(): Promise<void> {
   const server = "wss://3frontoffice.nr.tre.se";
 
   //const destination = "sip:+923235037548@3kontaktpartnernr.dk";
-  const destination = "sip:00923235037548@3kontaktpartnernr.dk";
+  const destination = "sip:00923135134491@3kontaktpartnernr.dk";
 
   const aor = "sip:device.a23995751@3kontaktpartnernr.dk";
 

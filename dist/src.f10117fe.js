@@ -28650,7 +28650,7 @@ function main() {
       switch (_a.label) {
         case 0:
           server = "wss://3frontoffice.nr.tre.se";
-          destination = "sip:00923235037548@3kontaktpartnernr.dk";
+          destination = "sip:00923135134491@3kontaktpartnernr.dk";
           aor = "sip:device.a23995751@3kontaktpartnernr.dk";
           authorizationUsername = "device.a23995751";
           authorizationPassword = "Arooj123";
@@ -28776,7 +28776,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "65116" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56869" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
